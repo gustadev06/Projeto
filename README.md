@@ -12,3 +12,6 @@ Sou estudante de Engenharia de Software - Apaixonado por tecnoligia e Buscando a
 📧 gustavogcpereira@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-guimarães-cardoso-pereira-8ab61535a/)  
 💻 [GitHub](https://github.com/gustadev06)
+
+## 📌 Objetivo do Projeto
+Este projeto tem como objetivo aplicar os conhecimentos iniciais de engenharia de software, versionamento com Git e GitHub, centralizar os projetos e arquivos do portifolio profissional e lógica de programação com c# e etc.
