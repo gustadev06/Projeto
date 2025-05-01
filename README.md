@@ -7,7 +7,7 @@ Sou estudante de Engenharia de Software - Apaixonado por tecnoligia e Buscando a
 - Ferramentas: Git, GitHub
 - Editor: Visual Studio / VSCode
 
-🧑‍💻 Desenvolvedor!!!
+##🧑‍💻 Desenvolvedor!!!
 
 📧 gustavogcpereira@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-guimarães-cardoso-pereira-8ab61535a/)  
