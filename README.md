@@ -7,8 +7,7 @@ Sou estudante de Engenharia de Software - Apaixonado por tecnoligia e Buscando a
 - Ferramentas: Git, GitHub
 - Editor: Visual Studio / VSCode
 
-### ✨ Dica:
-
-- Você pode adicionar uma imagem do projeto usando Markdown:
-  ```markdown
-  ![imagem do projeto](C:\Users\gusta\source\repos\IdadeCategoria\IdadeCategoria.sln)
+🧑‍💻 Desenvolvedor!!!
+📧 gustavogcpereira@email.com  
+🔗 [LinkedIn](https://https://www.linkedin.com/in/gustavo-guimarães-cardoso-pereira-8ab61535a/)  
+💻 [GitHub](https://github.com/seu-usuario)
