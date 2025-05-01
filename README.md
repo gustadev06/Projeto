@@ -7,3 +7,8 @@ Sou estudante de Engenharia de Software - Apaixonado por tecnoligia e Buscando a
 - Ferramentas: Git, GitHub
 - Editor: Visual Studio / VSCode
 
+### ✨ Dica:
+
+- Você pode adicionar uma imagem do projeto usando Markdown:
+  ```markdown
+  ![imagem do projeto](C:\Users\gusta\source\repos\IdadeCategoria\IdadeCategoria.sln)
