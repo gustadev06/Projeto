@@ -9,5 +9,5 @@ Sou estudante de Engenharia de Software - Apaixonado por tecnoligia e Buscando a
 
 🧑‍💻 Desenvolvedor!!!
 📧 gustavogcpereira@email.com  
-🔗 [LinkedIn](https://https://www.linkedin.com/in/gustavo-guimarães-cardoso-pereira-8ab61535a/)  
-💻 [GitHub](https://github.com/seu-usuario)
+🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-guimarães-cardoso-pereira-8ab61535a/)  
+💻 [GitHub](https://github.com/gustadev06)
