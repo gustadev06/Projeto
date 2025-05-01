@@ -1,1 +1,10 @@
+Console.Write("Digite o valor da esfera");
+Double raio = Convert.ToDouble(Console.ReadLine());
+
+double pi = 3.14;
+
+double volume = (4.0 / 3.0) * pi * Math.Pow(raio, 3);
+
+Console.WriteLine($"O valor da esfera é: {volume:F2}");
+
 
