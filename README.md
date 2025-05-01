@@ -8,6 +8,7 @@ Sou estudante de Engenharia de Software - Apaixonado por tecnoligia e Buscando a
 - Editor: Visual Studio / VSCode
 
 🧑‍💻 Desenvolvedor!!!
+
 📧 gustavogcpereira@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-guimarães-cardoso-pereira-8ab61535a/)  
 💻 [GitHub](https://github.com/gustadev06)
